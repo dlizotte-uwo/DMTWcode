@@ -1,4 +1,8 @@
 
+To install, go to the parent directory of this package and run:
+
+install.packages("DMTWpackage",repos=NULL,type="source")
+
 -----------------------------------o---O---o------------------------------------
 
                         Computer Code Corresponding to:
